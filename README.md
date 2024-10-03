@@ -5,7 +5,7 @@
 </p>
 <ul>
   <li>🔭 I’m currently working on personal projects to improve and expand my technical skills.</li>
-  <li>🤔 My interests are in software engineering, ML, and data</li>li
+  <li>🤔 My interests are in software engineering, ML, and data</li>
   <li>🌱 I’m currently learning MongoDB, Express.js, React, Node.js, and SQL.</li>
   <li>👯 I’m looking to collaborate on hackathons, open source, and impactful projects.</li>
   <li>
